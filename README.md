@@ -32,6 +32,10 @@ A simple user management system built with **React.js** that allows users to vie
 
    The app will be available at `http://localhost:5173/`.
 
+4. **Credentials:**
+   email : `eve.holt@reqres.in`
+   password : `cityslicka` 
+
 ## 🔧 Usage
 
 1. **View Users:** The homepage lists all users with pagination.
